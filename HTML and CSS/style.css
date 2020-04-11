@@ -3,20 +3,19 @@ body {
 }
 
 h1 {
-     color: rgb(12, 173, 167);
+  color: rgb(12, 173, 167);
      background-color: white;
      font-family: times new roman;
      font-weight: bold;
 }
 
 h3 {
-     color: rgb(12, 173, 167);
+     color: rgb(12, 167, 12);
      background-color: white;
      font-family: times new roman;
      font-weight: bold;
-}
 
-img {
+     img {
     padding-top: 10px;
     padding-right: 20px;
     padding-bottom: 10px;
@@ -34,6 +33,8 @@ p {
 
 .navbar {
          padding-left: 50px;
+         margin: auto;
+         
 }
 
 .navbar-brand {
